@@ -7,4 +7,4 @@
 <br /> 
 <br /> 
 
-<div align="center"><small>© Anywhere Connection Corporation 2026</small></div>
+<div align="center"><sub>© Anywhere Connection Corporation 2026</sub></div>
